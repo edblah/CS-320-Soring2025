@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnG8Jv8ro3I=",
+  "success": true,
+  "projectFilePath": "/Users/eddie/Downloads/Spring 2025/CS-320/MyCookBookProject/MyCookBookApi/MyCookBookApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/eddie/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/eddie/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/eddie/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
